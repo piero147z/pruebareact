@@ -1,3 +1,19 @@
+.container-fluid{
+  background-image: url('./assets/fondonuevo.png');
+}
+
+.display-4{
+  color: aliceblue;
+}
+
+p{
+  color: aliceblue;
+}
+
+.col{
+  color: aliceblue;
+}
+
 .App {
   text-align: center;
 }

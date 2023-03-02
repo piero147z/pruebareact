@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1, 
+        "nombre": "Fundamentos de la Libertad",
+        "autor": "Friedrich Hayek",
+        "precio": 25,
+        "img": "hayek.png"
+        
+    },
+
+    {
+        "id": 2, 
+        "nombre": "Vida y obra de Sigmund Freud",
+        "autor": "Ernest Jones",
+        "precio": 20,
+        "img": "freud.png"
+    },
+
+    {
+        "id": 3, 
+        "nombre": "La Acción humana",
+        "autor": "Ludwig Von Mises",
+        "precio": 13,
+        "img": "mises.png"
+    },
+
+    {
+        "id": 4, 
+        "nombre": "Así habló Zaratustra",
+        "autor": "Friedrich Nietzsche",
+        "precio": 15,
+        "img": "nietzsche.png"
+    },
+
+    {
+        "id": 5, 
+        "nombre": "La Anatomía del Estado",
+        "autor": "Murray Rothbard",
+        "precio": 20,
+        "img": "murray.png"
+    },
+
+    {   
+        "id": 6, 
+        "nombre": "Critón",
+        "autor": "Platón",
+        "precio": 10,
+        "img": "platon.png"
+    }
+]
